@@ -1,0 +1,5 @@
+{
+  "name": "SecureGuard Login",
+  "description": "A secure login system featuring account lockout after multiple failed attempts and a cooldown timer.",
+  "requestFramePermissions": []
+}
